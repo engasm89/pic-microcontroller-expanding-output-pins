@@ -54,19 +54,3 @@ gcc -Wall -Wextra -std=c11 *.c -o demo && ./demo
 
 Open `data/sample-telemetry.jsonl` to inspect representative console output. This is
 useful when validating your hardware wiring or cloud logging pipeline.
-
-## Additional Notes (Legacy Content)
-
-# PIC Microcontroller Expanding Output Pins
-
-- Course: PIC Microcontroller Expanding Output Pins
-- Author: Ashraf S A AlMadhoun
-- Link: https://www.udemy.com/course/pic-microcontroller-shift-register-expanding-output-pins/?couponCode=JULYMAXDICOUNT
-
-## Overview
-
-Use shift registers and expanders to increase available output pins on PIC.
-
-## Purchase With Discount
-
-Enroll using the link above to get a discounted price and scale IO.

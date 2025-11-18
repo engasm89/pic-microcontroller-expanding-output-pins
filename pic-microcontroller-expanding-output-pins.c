@@ -6,6 +6,14 @@
  * Notes: Auto-generated metadata block (2025-11-18)
  */
 
+/*
+ * Course: Pic Microcontroller Expanding Output Pins
+ * Platform: PIC Microcontroller
+ * Author: Ashraf S A AlMadhoun
+ * Purpose: Auto-generated metadata block to document the learning goals.
+ * Notes: Auto-generated metadata block (2025-11-18)
+ */
+
 #include <stdio.h> // Include I/O for IO expansion logs
 
 // Main routine: orchestrates the pic microcontroller expanding output pins scenario
